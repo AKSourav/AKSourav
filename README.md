@@ -7,7 +7,7 @@ I specialize in building scalable systems, optimizing workflows, and integrating
 ---
 
 ### 🔧 Technical Skills  
-- **Languages:** Python, JavaScript, C++, C  
+- **Languages:** Python, JavaScript, TypeScript, C++, C  
 - **Frameworks:** FastAPI, Django REST, Node.js, React.js, Next.js  
 - **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB  
 - **Tools:** Docker, Kubernetes, RabbitMQ, Git, AWS, Azure  
